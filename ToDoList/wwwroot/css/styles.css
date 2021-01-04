@@ -1,0 +1,20 @@
+body {
+  background: darkcyan;
+  color: navy;
+}
+h1 {
+  color: white;
+}
+
+div#footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  color: navy;
+  background: #008b8b;
+  padding: 8px;
+}
+a {
+  color: navy;
+}
